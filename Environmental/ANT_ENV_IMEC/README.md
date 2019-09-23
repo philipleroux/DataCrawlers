@@ -10,6 +10,7 @@ Crawler to get data from several sensors in Antwerp from IMEC API.
 ### Getting started
 #### Prerequisites
 You need to have Java installed. JavaSE Development Kit for different OS can be downloaded from [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Explicit access to the data needs to be requested via het imec helpdesk: https://helpdesk.ilabt.imec.be/servicedesk/customer/portal/4. You should mention that you want data from the CUTLER project as well as the reason you want access to the data. More information on requesting data can be found on https://obelisk.ilabt.imec.be/api/v2/docs/get-started/request-access/. 
 #### Installation
 Needed libraries can be found at [dist>lib](dist/lib/)
 ### Running as stand alone
